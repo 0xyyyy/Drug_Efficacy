@@ -1,4 +1,4 @@
-# Matplotlib_Challenge
+# Preclinical Trial Drug Efficacy
 Use matplotlib to generate plots describing different information about a pre-clinical trial for cancer drugs in mice. Use pandas to filter and sort the data to create various graphs that describe the most promising treatments in a mock clinical trial. 
 
 **Table of Summary Statistics for Each Treatment**
